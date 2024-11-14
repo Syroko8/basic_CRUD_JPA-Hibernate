@@ -14,4 +14,4 @@ In this project, the classes are organized into three packages, except for the "
 The "**controller**" package contains the two controllers we will use as communication bridges between the "AutorDAO", "LibroDAO" files and the rest of the files.
 In the "**model**" package, we find the previously mentioned "LibroDAO" and "AutorDAO" classes, along with the "Autor" and "Libro" classes, which represent the database instances. These classes are used to create objects that allow us to retrieve and manipulate data from the database.
 
-- Finally, the "**view**" package contains the views, along with two interfaces and a class used for switching between views.
+Finally, the "**view**" package contains the views, along with two interfaces and a class used for switching between views.
